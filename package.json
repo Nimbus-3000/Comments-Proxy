@@ -6,7 +6,8 @@
   "dependencies": {
     "express": "^4.17.1",
     "express-http-proxy": "^1.6.0",
-    "http-proxy-middleware": "^1.0.3"
+    "http-proxy-middleware": "^1.0.3",
+    "newrelic": "^6.5.0"
   },
   "devDependencies": {
     "grunt-aws": "^0.7.1",
