@@ -1,2 +1,4 @@
 node_modules
 .aws.JSON
+newrelic.js
+newrelic_agent.log
